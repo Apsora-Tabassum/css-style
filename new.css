@@ -1,0 +1,13 @@
+h1{
+    color: black;
+    text-align: left;
+}
+h2{
+    color: blueviolet;
+    background-image: none;
+}
+p{
+    background-color: chartreuse;
+    text-align: right;
+    padding: 5px;
+}
